@@ -19,6 +19,6 @@ Um simples detector de chamas utilizando fotodiodo e um retransmissor com um LED
 
 Abaixo segue a demonstração de ambos o sensor e retransmissor, respectivamente.
 
-![Funcionamentento do sensor](https://drive.google.com/file/d/1cQ-56kzup8lpPYKLPxK6WTt1MheHkd8T/view?usp=sharing)
+![Funcionamentento do sensor](0606.gif)
 
-![Funcionamento do retransmissor](https://drive.google.com/file/d/1QVghKPXRrPXROFxOKR-_FLIzjiFiwkgf/view?usp=sharing)
+![Funcionamento do retransmissor](0606(1).gif)
